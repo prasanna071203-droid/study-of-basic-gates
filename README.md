@@ -96,7 +96,8 @@ endmodule
 ![WhatsApp Image 2025-10-08 at 18 24 14_54a5f09a](https://github.com/user-attachments/assets/52f71af9-645b-40d3-bf2b-fd97ee0047da)
 
 **RTL realization Output:** 
-<img width="1273" height="766" alt="Screenshot 2025-10-08 173806" src="https://github.com/user-attachments/assets/9df68763-eba2-457b-9f83-e60d95b246c3" />
+
+![WhatsApp Image 2025-10-09 at 14 39 08_51f5b054](https://github.com/user-attachments/assets/641e5a4d-4c2f-4ca5-896c-2c377025002b)
 
 
 **RTL**
