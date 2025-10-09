@@ -100,7 +100,7 @@ endmodule
 
 
 **RTL**
-<img width="1919" height="512" alt="Screenshot 2025-10-08 180546" src="https://github.com/user-attachments/assets/a5b80a0e-99c7-40b3-a8d4-1b321944fe41" />
+
 
 
 **Result:**
